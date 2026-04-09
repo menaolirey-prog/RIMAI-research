@@ -1,4 +1,4 @@
-# RIMAI-research# RIMAI Research
+# RIMAI-research
 
 Repositorio de pruebas de librerías para el proyecto RIMAI (IEEE CIS UNI).
 
